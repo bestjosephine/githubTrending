@@ -2,6 +2,16 @@
 
 记录Github热榜上的项目。来源网站 [https://github.com/trending](https://github.com/trending)
 
+## 20250210期
+
+1. AI Agent 框架 [https://github.com/lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
+2. QQ 微信私聊 AI 机器人 [https://github.com/RockChinQ/LangBot](https://github.com/RockChinQ/LangBot)
+
+3. 将网站转换为结构化数据以支持大模型的工具 [https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
+4. 🌟 在网页上使用本地模型 [https://github.com/n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
+
 ## 20250208期
 
 1. 基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎 [https://github.com/infiniflow/ragflow/](https://github.com/infiniflow/ragflow/)
