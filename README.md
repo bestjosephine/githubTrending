@@ -2,6 +2,26 @@
 
 记录Github热榜上的项目。来源网站 [https://github.com/trending](https://github.com/trending)
 
+## 20250217期
+
+1. 将屏幕转换为结构化数据的工具 [https://github.com/microsoft/OmniParser](https://github.com/microsoft/OmniParser)
+
+用于给大模型提供数据。
+
+2. 将文档转换为 markdown [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
+
+3. 使用AI辅助的搜索引擎 [https://github.com/zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
+
+感觉会被搜索引擎干掉。试用网址 [https://scira.app/](https://scira.app/)
+
+4. 通过项目提升自己的编程实力 [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+说实话我觉得很有意思，有空去看看这个项目。挑战 [https://app.codecrafters.io/catalog](https://app.codecrafters.io/catalog)
+
+5. 无代码大模型平台结构化非结构化数据 [https://github.com/Zipstack/unstract](https://github.com/Zipstack/unstract)
+
+6. 🌟 GitHub优秀资源集合 [https://github.com/GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+
 ## 20250210期
 
 1. AI Agent 框架 [https://github.com/lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
